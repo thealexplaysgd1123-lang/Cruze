@@ -20,4 +20,4 @@ Cruze is currently in development. You may encounter bugs as development continu
 Have an idea, found a bug, or noticed something that needs fixing? We would like to hear it!
 
 # License 📜
-See the [License] file for licensing information.
+See the [License](https://github.com/thealexplaysgd1123-lang/Cruze/blob/main/LICENSE) file for licensing information.
