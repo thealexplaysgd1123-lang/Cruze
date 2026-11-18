@@ -14,7 +14,7 @@ Cruze is a free, open-source, music app platform for all ages.
 - Tier 3: Premium Plus: The top-tier version, with extra features.
 
 # Status 🏗️
-Cruze is still being developed. Some bugs may appear as work continues.
+Cruze is still being developed, some bugs might appear during development.
 
 # Feedback! 🤝
 Do you have a suggestion found a bug or see something that needs improvement? We want to hear from you.
