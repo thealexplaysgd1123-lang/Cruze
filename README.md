@@ -1,23 +1,23 @@
-# Cruze - A Free Music Platform 🎵
+# Cruze. A Free Music Platform 🎵
 
-Cruze is a free, open-sourced music app platform for all ages. 
+Cruze is a free, open-source, music app platform for all ages.
 
 # Features ⚙️
--  AI Assistant
--  Generate AI tracks
--  Library
--  3 Tiers of Premium
+- AI Assistant
+- Generate AI tracks
+- Library
+- 3 Tiers of Premium
 
-# Tiers of Premium 💎
-- Tier 1: Regular Premium: Just plain ol' Premium.
-- Tier 2: Premium Advanced: A better version of premium with more features.
-- Tier 3: Premium Plus: The best version of Premium with lots of features.
+# Tiers of Premium
+- Tier 1: Regular Premium: This is the basic premium version.
+- Tier 2: Premium Advanced: A step up from premium with more features.
+- Tier 3: Premium Plus: The top-tier version, with extra features.
 
 # Status 🏗️
-Cruze is currently in development. You may encounter bugs as development continues.
+Cruze is still being developed. Some bugs may appear as work continues.
 
 # Feedback! 🤝
-Have an idea, found a bug, or noticed something that needs fixing? We would like to hear it!
+Do you have a suggestion found a bug or see something that needs improvement? We want to hear from you.
 
 # License 📜
-See the [License](https://github.com/thealexplaysgd1123-lang/Cruze/blob/main/LICENSE) file for licensing information.
+For licensing details check the [License](https://github.com/thealexplaysgd1123-lang/Cruze/blob/main/LICENSE) file.
